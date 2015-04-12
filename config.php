@@ -9,7 +9,7 @@ error_reporting(E_ERROR);
 
 define('SERVER', 'localhost');
 define('USER', 'root');
-define('PASS', '');
+define('PASS', 'xvalencia');
 define('BBDD','encuestas');
 
 
